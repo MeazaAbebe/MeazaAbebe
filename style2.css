@@ -1,0 +1,77 @@
+body{
+	background-color: none;
+	color: #555;
+	font-family: italic, Arial, Helvetica , sans-serif;
+	font-size: 16px;
+	line-height:1.6em;
+	margin:10;
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	margin:40;
+}
+#main-header{
+	background-color:coral;
+	color:baclk;
+}
+#navbar{
+	background-color:#333;
+	color:fff;
+}
+navbar ul{
+	padding:0;
+	list-style: none;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+}
+#showcase{
+	background-image: url(images2/hami.jpg);
+	background-position:center-right;
+	min-height:300px;
+	margin-bottom:30px;
+	text-align: center;
+}
+#showcase h1{
+	color: #fff;
+	font-size: 50;
+	line-height: 1.6em;
+	padding-top:30px;
+	box-sizing: border-box;
+}
+#main{
+	float: center;
+	width: 70%;
+	padding: 0 30px;
+	box-sizing: border-box;
+	}
+	
+	
+.box-2{
+	border:3px dotted orange;
+	padding: 10px;
+	margin: 20px 0;
+	text-align:center;
+    text-decoration: underline;
+	text-shadow: white;
+	font-size:12px;
+	font-family: Bauhaw 93;
+	
+}
+
+
+	#main-footer{
+		background-color: black;
+		color: #fff;
+		text-align: center;
+		padding: 20px;
+		
+	}
